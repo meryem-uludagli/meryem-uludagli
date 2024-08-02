@@ -1,6 +1,7 @@
 [!MasterHead
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h4 align="center">Hello! I'm Mert, a full-stack developer passionate about creating innovative solutions in the world of software development. With strong communication skills, I excel in team collaborations and love tackling complex problems swiftly and effectively.</h4>
+<h4 align="center">👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 💼 Looking for Tough Opportunities
+I'm passionate about building scalable web applications and improving user experience. Expert in JavaScript, HTML5 and CSS3. Always willing to learn new technologies and take on exciting projects.</h4>
 
 🔭 I’m currently working on Web Development
 
@@ -8,7 +9,7 @@
 
 🤭 I love learning new things and software
 
-📫 How to reach me mertozbolat008@gmail.com
+📫 How to reach me meryemuslu2035@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
