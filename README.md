@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🤭 I love learning **new things and software**
+- 🥰 I love learning **new things and software**
 
 - 📫 How to reach me **meryemuslu2035@gmail.com**
 
-<h1 align="left">Connect with me:</h1>
+<h1 align="left">🔗Connect with me:</h1>
 <p align="left">
 <a href="https://instagram.com/meryem_uludagli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meryem_uludagli" height="30" width="40" /></a>
 </p>
