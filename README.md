@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Meryem</h1>
 <h3 align="center">👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 💼 Looking for Tough Opportunities I'm passionate about building scalable web applications and improving user experience. Expert in JavaScript, HTML5 and CSS3. Always willing to learn new technologies and take on exciting projects.</h3>
 
-- 🧩 I’m currently working on **HTML5,CSS3,JavaScript**
+ 🧩 I’m currently working on **HTML5,CSS3,JavaScript**
 
-- 📝 I’m currently learning **Web Development**
+ 📝 I’m currently learning **Web Development**
+ 
+ 💡I can adapt to collaborative environments, utilizing creativity and empathy to achieve successful results.
 
-- 🥰 I love learning **new things and software**
+ 🥰 I love learning **new things and software**
 
-- 📫 How to reach me **meryemuslu2035@gmail.com**
+ 📫 How to reach me **meryemuslu2035@gmail.com**
 
 <h1 align="left">🔗Connect with me:</h1>
 <p align="left">
