@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fkodluyoruz%2Fyaz%25C4%25B1l%25C4%25B1ma-nas%25C4%25B1l-ba%25C5%259Flayabilirim-hangi-yaz%25C4%25B1l%25C4%25B1m-alan%25C4%25B1n%25C4%25B1-se%25C3%25A7meliyim-neye-ilgim-oldu%25C4%259Funu-bilmiyorum-37035648920e&psig=AOvVaw1CxnLeE9TjfrGmGLVBrYXQ&ust=1722678560016000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiSp_aD1ocDFQAAAAAdAAAAABAE)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*K8XgRuFvD-L_bFDWwdkKew.png)
 <h1 align="center">Hi 👋, I'm Meryem</h1>
 <h3 align="center">👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 💼 Looking for Tough Opportunities I'm passionate about building scalable web applications and improving user experience. Expert in JavaScript, HTML5 and CSS3. Always willing to learn new technologies and take on exciting projects.</h3>
 
