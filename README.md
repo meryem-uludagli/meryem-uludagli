@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*K8XgRuFvD-L_bFDWwdkKew.png)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Meryem</h1>
 <h3 align="center">👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 💼 Looking for Tough Opportunities I'm passionate about building scalable web applications and improving user experience. Expert in JavaScript, HTML5 and CSS3. Always willing to learn new technologies and take on exciting projects.</h3>
 
