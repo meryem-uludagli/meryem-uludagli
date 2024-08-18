@@ -13,9 +13,14 @@
  📫 How to reach me **meryemuslu2035@gmail.com**
 
 <h1 align="left">🔗Connect with me:</h1>
+ <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/meryem-uludağlı-60a957316/" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
 <p align="left">
 <a href="https://instagram.com/meryem_uludagli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meryem_uludagli" height="30" width="40" /></a>
 </p>
+
 
 <h1 align="left">👩‍💻Tech Stack</h1>
 <div align="center">
