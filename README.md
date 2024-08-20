@@ -14,7 +14,7 @@
 
 <!-- Contact Section -->
 <section id="contact" style="text-align: center; margin: 50px 0;">
-  <h2>Contact Me</h2>
+  <h2>👾Contact Me</h2>
   <p>You can find me on the following platforms:</p>
 
   <!-- LinkedIn -->
