@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Meryem</h1>
-<h3 align="center">👨‍💻 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 | 🌐 𝘞𝘦𝘣 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵 | 💼 𝘓𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘛𝘰𝘶𝘨𝘩 𝘖𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘐'𝘮 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘸𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘯𝘥 𝘪𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘶𝘴𝘦𝘳 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦. 𝘌𝘹𝘱𝘦𝘳𝘵 𝘪𝘯 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵, 𝘏𝘛𝘔𝘓5 𝘢𝘯𝘥 𝘊𝘚𝘚3. 𝘈𝘭𝘸𝘢𝘺𝘴 𝘸𝘪𝘭𝘭𝘪𝘯𝘨 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘯𝘦𝘸 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘢𝘯𝘥 𝘵𝘢𝘬𝘦 𝘰𝘯 𝘦𝘹𝘤𝘪𝘵𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴.</h3>
+<h3 align="center">👩🏻‍💻 Full Stack Developer | 📱 Mobile App Enthusiast | 🌟 Passionate Problem Solver
+I'm a Full Stack Developer with a strong focus on React and React Native, specializing in building dynamic, high-performance web and mobile applications. 💼 Open to Challenging Opportunities
+Always eager to learn and implement new technologies, I thrive in environments that push me to grow. Let’s create something amazing together!</h3>
 
  🧩 I’m currently working on **React Native,React,JavaScript**
 
