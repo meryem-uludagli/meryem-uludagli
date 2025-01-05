@@ -10,8 +10,6 @@ Always eager to learn and implement new technologies, I thrive in environments t
  
  💡I can adapt to collaborative environments, utilizing creativity and empathy to achieve successful results.
 
- 🥰 I love learning **new things and software**
-
  📫 How to reach me **meryemuslu2035@gmail.com**
 
 <!-- Contact Section -->
