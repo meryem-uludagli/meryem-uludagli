@@ -51,7 +51,14 @@ Always eager to learn and implement new technologies, I thrive in environments t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="next.js logo" />
 </div>
+
 <h1 align="left">📊GitHub Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryem-uludagli&show_icons=true&locale=en&layout=compact" alt="meryem-uludagli" /></p>
 
