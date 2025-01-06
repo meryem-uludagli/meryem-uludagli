@@ -1,5 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Meryem</h1>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meryem-uludagli&label=Profile%20views&color=0e75b6&style=flat" alt="meryem-uludagli" />
+</p>
+
 <h3 align="center">👩🏻‍💻 Full Stack Developer | 📱 Mobile App Enthusiast | 🌟 Passionate Problem Solver
 I'm a Full Stack Developer with a strong focus on React and React Native, specializing in building dynamic, high-performance web and mobile applications. 💼 Open to Challenging Opportunities
 Always eager to learn and implement new technologies, I thrive in environments that push me to grow. Let’s create something amazing together!</h3>
@@ -28,7 +33,6 @@ Always eager to learn and implement new technologies, I thrive in environments t
   </a>
 
 </section>
-
 
 <h1 align="left">👩‍💻Tech Stack</h1>
 <div align="center">
