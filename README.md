@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=meryem-uludagli&label=Profile%20views&color=0e75b6&style=flat" alt="meryem-uludagli" />
 </p>
 
-<h3 align="center">👩🏻‍💻 Full Stack Developer | 📱 Mobile App Enthusiast | 🌟 Passionate Problem Solver
-I'm a Full Stack Developer with a strong focus on React and React Native, specializing in building dynamic, high-performance web and mobile applications. 💼 Open to Challenging Opportunities
-Always eager to learn and implement new technologies, I thrive in environments that push me to grow. Let’s create something amazing together!</h3>
+<h3 align="center">I am a disciplined and highly motivated individual who thrives in collaborative environments. I enjoy working with teams, sharing ideas, and learning from others to achieve common goals. I am always eager to improve myself and embrace new challenges with a proactive mindset. Adaptability and continuous learning are key aspects of my approach, allowing me to stay dynamic and open to growth. With a strong sense of responsibility and dedication, I strive to bring efficiency and innovation to everything I do.</h3>
 
  🧩 I’m currently working on **React Native,React,JavaScript**
 
